@@ -7,7 +7,7 @@
 
 ## Rock Paper Scissors ##
 
-![Rock Paper Scissors](<https://github.com/Ongoing-Knowledge-Scraping/Rock-Paper-Scissors/blob/main/Rock%20Paper%20Scissors.gif> "Running the code")
+![Rock Paper Scissors](<https://github.com/Ongoing-Knowledge-Scraping/Rock-Paper-Scissors/blob/main/Rock-Paper-Scissors.gif> "Running the code")
 
 ## View on Replit ##
 
