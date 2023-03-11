@@ -1,6 +1,6 @@
-# Day 4 - Randomisation and Python Lists #
+# Day 4 - Randomization and Python Lists #
 
-- Concepts Practised
+- Concepts Practiced
 - Random Module
 - Understanding the Offset and Appending Items to Lists
 - Index Errors and Working with Nested Lists
